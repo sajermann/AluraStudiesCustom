@@ -1,6 +1,6 @@
 # Alura Studies - Custom
 
-Projeto do curso da Alura com modificações.
+Projeto Alura Studies do curso da Alura com modificações.
 
 O projeto consiste em criar um gerenciador de tarefas com cronômetro.
 
